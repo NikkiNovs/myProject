@@ -1,0 +1,421 @@
+@media screen and (max-width: 1980px){
+    .container{
+        width: 1750px;
+    }
+    .logo{
+        padding-left: 50px;
+    }
+}
+@media screen and (max-width: 1770px){
+    .container{
+        width: 1500px;
+    }
+.navi{
+    padding-right: 100px;
+}
+/*.portfolio_box{*/
+/*    width: 80%;*/
+/*}*/
+    /*.portfolio_photo{*/
+    /*    width: 270px;*/
+    /*    height: 270px;*/
+    /*}*/
+}
+@media screen and (max-width: 1520px){
+    .container{
+        width: 1200px;
+    }
+.portfolio_box{
+    width: 1190px;
+}
+    .navi{
+        padding-left: 200px;
+    }
+}
+@media screen and (max-width: 1220px){
+    .container{
+        width: 900px;
+    }
+.name1{
+    font-size: 75px;
+}
+/*    .hexagon{*/
+/*    flex-wrap: wrap;*/
+/*    flex-direction: row;*/
+/*    justify-content: flex-start;*/
+/*    margin: 50px;*/
+/*    width: 100%;*/
+/*}*/
+    .hexagon{
+        height: 300px;
+        padding: 0;
+    }
+    .hex{
+        width: 94px;
+        height: 73px;
+        border-radius: 18px;
+    }
+    .hex1{
+        width: 94px;
+        height: 73px;
+        border-radius: 18px;
+    }
+    .buble{
+        width: 38px;
+        height: 38px;
+    }
+    .service{
+        margin-top: 48px;
+    }
+    .navi{
+        padding-left: 100px;
+    }
+.navi_link{
+        margin: 0 10px;
+}
+.about_box{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.folovers{
+    width: 100%;
+    justify-content: center;
+}
+.carts{
+    margin: 0 20px;
+    width: 215px;
+    height: 450px;
+}
+.folover_box{
+    width: 200px;
+    height: 200px;
+}
+.procent{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.teacher_text{
+    text-align: center;
+}
+.stat{
+    margin: 0;
+    padding: 20px;
+}
+.footer_contact{
+    flex-direction: column;
+    justify-content: center;
+}
+.portfolio_box{
+    width: 890px;
+}
+.portfolio_tab{
+    width: 890px;
+}
+    .portfolio_photo{
+        width: 250px;
+        height: 250px;
+    }
+.portfolio_text{
+    font-size: 16px;
+}
+}
+@media screen and (max-width: 920px){
+    .container{
+        width: 700px;
+    }
+    .podname{
+        font-size: 36px;
+    }
+    .header_text{
+        text-align: center;
+    }
+    .hexagon{
+        width: 690px;
+        height: 250px;
+        padding: 0;
+    }
+    .hex{
+        width: 78px;
+        height: 58px;
+        border-radius: 14px;
+    }
+    .hex .poligon-1{
+        border-radius: 14px;
+    }
+    .hex .poligon-2{
+        border-radius: 14px;
+    }
+
+    .hex1{
+        width: 78px;
+        height: 58px;
+        border-radius: 14px;
+    }
+    .hex1 .poligon-1{
+        border-radius: 14px;
+    }
+    .hex1 .poligon-2{
+        border-radius: 14px;
+    }
+    .buble{
+        width: 25px;
+        height: 25px;
+    }
+    .service{
+        margin-top: 38px;
+    }
+.navigate{
+    flex-direction: column;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+.navi{
+    padding-left: 40px;
+}
+.diamond{
+    flex-wrap: wrap;
+}
+.diamond_box{
+    width: 200px;
+    height: 320px;
+    margin: 0 20px;
+}
+.diamond_hex{
+        width: 94px;
+        height: 73px;
+        border-radius: 18px;
+}
+.diamond_name{
+    font-size: 16px;
+}
+.diamond_text{
+    font-size: 10px;
+    line-height: 12px;
+}
+    .about_img{
+        width: 502px;
+        height: 320px;
+        padding-right: 40px;
+    }
+    .teacher{
+        height: 327px;
+    }
+    .teacher_text{
+        font-size: 38px;
+    }
+    .carts{
+        margin: 0 2px;
+    }
+    .slider_box{
+        width: 690px;
+    }
+    .slide{
+        width: 690px;
+    }
+    .stat{
+        width: 100px;
+        height: 65px;
+    }
+    .stat_procent{
+        font-size: 44px;
+    }
+    .portfolio_box{
+        width: 690px;
+    }
+    .portfolio_tab{
+        width: 690px;
+    }
+}
+@media screen and (max-width: 720px){
+    .container{
+        width: 500px;
+    }
+    .name1{
+        font-size: 65px;
+    }
+    .podname{
+font-size: 30px;
+        text-align: center;
+    }
+    .header_text{
+        font-size: 20px;
+    }
+    .hexagon{
+        flex-wrap: wrap;
+        width: 350px;
+        padding: 0;
+    }
+    .hex{
+        align-self: unset;
+    }
+    .hex1{
+        align-self: unset;
+    }
+    .navigate{
+        display: none;
+    }
+    .dropdown{
+        text-align: center;
+        display: inline-block;
+    }
+    /*.logo{*/
+    /*    margin: 30px 200px 30px;*/
+    /*}*/
+    .about_img{
+        width: 386px;
+        height: 246px;
+    }
+    .folovers{
+        flex-direction: column;
+        align-items: center;
+    }
+    .procent_box{
+        margin: 0 25px;
+    }
+    .slider_box{
+        width: 490px;
+        margin: 71px 0;
+    }
+    .slide{
+        width: 490px;
+    }
+    .slider-btn{
+        width: 300px;
+        margin: 450px 100px 0;
+    }
+    .portfolio_box{
+        width: 490px;
+    }
+    .portfolio_tab{
+        width: 490px;
+    }
+    .portfolio_photo{
+        width: 200px;
+        height: 200px;
+    }
+    .input_box{
+        margin: 0;
+    }
+    .soc_box{
+       margin: 0;
+    }
+    .footer_contact{
+        width: 290px;
+    }
+    .input_box{
+        width: 290px;
+        height: 360px;
+    }
+    .input{
+        width: 290px;
+        box-sizing: border-box;
+    }
+    .inputmail{
+        width: 290px;
+        box-sizing: border-box;
+    }
+    .message{
+        width: 290px;
+        height: 100px;
+    }
+    .send{
+        width: 150px;
+        height: 50px;
+    }
+    .soc_box{
+        width: 290px;
+    }
+    .soc_text{
+        font-size: 16px;
+    }
+    .soc_sub_text{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 520px){
+    .container{
+        width: 300px;
+    }
+    .hexagon{
+        width: 300px;
+        padding: 0;
+        align-items: center;
+        justify-content: center;
+    }
+    .name1{
+        font-size: 55px;
+        text-align: center;
+    }
+    .podname{
+        font-size: 24px;
+        text-align: center;
+    }
+    .header_text{
+        font-size: 17px;
+    }
+    .dropdown{
+        margin: 30px 0;
+    }
+    .about_img{
+        width: 290px;
+        height: 220px;
+        padding-right: 0;
+    }
+    .about_text{
+        width: 290px;
+        height: 250px;
+    }
+    .about_bottom{
+        width: 150px;
+        height: 50px;
+    }
+    .procent_box{
+        width: 290px;
+        height: 80px;
+    }
+    .procent_text_box{
+        width: 290px;
+    }
+    .skill_progres{
+        width: 290px;
+        height: 12px;
+    }
+    .stat{
+        width: 25px;
+        height: 35px;
+    }
+    .stat_procent{
+        font-size: 20px;
+    }
+    .slider_box{
+        width: 290px;
+    }
+    .slide{
+        width: 290px;
+    }
+    .slide .folover_box{
+        width: 200px;
+        height: 200px;
+    }
+    .slide .folovers_name{
+        font-size: 12px;
+    }
+    .slide .folovers_position{
+        font-size: 8px;
+    }
+    .slider-btn{
+        margin: 450px 0 0;
+    }
+    .portfolio_box{
+        width: 290px;
+    }
+    .portfolio_navi{
+        width: 290px;
+    }
+    .portfolio_tab{
+        width: 290px;
+    }
+
+}
